@@ -1,0 +1,6 @@
+{
+  "name": "Self-Note - Unified Productivity OS & Developer Command Center",
+  "description": "Offline-first personal productivity OS featuring Notion-style notes, Kanban & Gantt project management, formula spreadsheets, local voice capture studio, natural-language quick capture, and energy-aware auto-scheduling.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
